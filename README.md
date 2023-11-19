@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning CS and Engineering
 - 💞️ I’m looking to collaborate on projects, tasks, specifically about bugs and maybe critters
 - 📫 How to reach me: carrier pidgeon, however you have to locate me
+- 🎵 TOP 3 ALBUMS ALL TIME: SOS, OK COMPUTER, INVITATION TO HERS
 
 <!---
 RrickyPham/RrickyPham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
